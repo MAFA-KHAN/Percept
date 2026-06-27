@@ -335,3 +335,5 @@ npm run dev
 *PERCEPT classifies narrative framing — not truth. Use credibility scores as a guide, not a verdict.*
 
 </div>
+
+---
